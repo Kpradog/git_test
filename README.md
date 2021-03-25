@@ -1,2 +1,3 @@
-# git_test
-Just testing
+This is Karina's first Git Project!
+<!-- # git_test
+Just testing -->
